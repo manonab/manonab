@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manonab - Manon.
-- 👀 I’m interested in web development and mobile in JavaScript (React.js)
+- 👀 I’m interested in web development and mobile in JavaScript (React.js / React Native)
 - 🌱 I’m currently learning Ruby on rails.
 - 📫 If you want to reach me out, send an email at abelcoindozm@gmail.com (FR-EN)
 
